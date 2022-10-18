@@ -63,5 +63,9 @@ ImGui makes tweaking items a breeze:
 // Hacking Terraria with C++: https://www.youtube.com/watch?v=uuMg7CeJF1k
 
 
+### How to use?
+Clone this repo
+
+
 
 
