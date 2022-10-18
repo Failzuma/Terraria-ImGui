@@ -61,11 +61,3 @@ ImGui makes tweaking items a breeze:
 // ImGui & DirectX Hooking: https://www.youtube.com/watch?v=Nrta_J_c9Cc
 
 // Hacking Terraria with C++: https://www.youtube.com/watch?v=uuMg7CeJF1k
-
-
-### How to use?
-Clone this repo
-
-
-
-
