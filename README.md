@@ -1,4 +1,4 @@
-## Updates: Oct 21st, 2022
+## Update: Oct 21st, 2022
 
 - All signatures updated for new Terraria 1.4.4 Update
 - NPCList Signature w/ Basic NPC ESP
